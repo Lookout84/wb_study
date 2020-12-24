@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Lookout84/goit-js-hw-10-food-service#readme",
   "dependencies": {
     "gh-pages": "^3.1.0",
+    "pexels": "^1.0.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
