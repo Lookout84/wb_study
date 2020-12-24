@@ -2,7 +2,7 @@ import { createClient } from "pexels";
 import refs from "./refs.js";
 import template from "../templates/item.hbs";
 
-let key = "563492ad6f91700001000001390f9fee0a794c1182a72e49e0e0eae2";
+let key = "563492ad6f91700001000001c072a1eefd53424fb9ad129fda8328b6";
 
 const client = createClient(key);
 console.log(client);
